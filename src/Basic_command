@@ -23,5 +23,8 @@
 
 9. INSERT INTO users (id, name, email, password) VALUES (1, 'John Doe', 'john.doe@example.com', 'password123');
 
+10. UPDATE users SET name = 'Jane Doe' WHERE id = 1;
+
+
 
  
