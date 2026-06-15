@@ -43,5 +43,18 @@
 
 19. SELECT * FROM users WHERE name IN ('John Doe', 'Jane Doe');
 
+20. SELECT * FROM users WHERE name IS NULL;
+
+21. SELECT * FROM users WHERE name IS NOT NULL;
+
+22. SELECT * FROM users WHERE name = 'John Doe' AND email = 'john.doe@example.com';
+
+23. ALTER DATABASE first_program RENAME TO second_program;
+
+24. ALTER TABLE users RENAME TO customers;
+
+25. ALTER TABLE customers RENAME COLUMN name TO full_name;
+
+26. ALTER TABLE customers RENAME COLUMN email TO email_address;
 
  
