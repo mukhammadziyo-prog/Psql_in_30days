@@ -1,6 +1,3 @@
- 
-
- # -------------------------#
  -- Users table
 
  -- Products table
