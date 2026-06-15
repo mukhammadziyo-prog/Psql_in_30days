@@ -5,4 +5,20 @@
 3. \l or \list (you can see how many databases you have through this command)
 
 4. DROP DATABASE first_program;
+
+5. /! cls (Clear terminal)
+
+6. CREATE TABLE users(
+    id INT PRIMARY KEY,
+    name VARCHAR(50),
+    email VARCHAR(50),
+    password VARCHAR(50),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+)
+
+7. ALTER TABLE users ADD COLUMN age INT;
+
+8.ALTER TABLE users DROP COLUMN age;
+
  
