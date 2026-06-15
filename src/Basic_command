@@ -1,2 +1,8 @@
-select * from users;
+1. SELECT * FROM users;
 
+2. CREATE DATABASE first_program;
+
+3. \l or \list (you can see how many databases you have through this command)
+
+4. DROP DATABASE first_program;
+ 
