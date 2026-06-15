@@ -4,7 +4,7 @@ A structured 30-day PostgreSQL learning journey.
 
 ## Progress
 
-- [ ] Day 01 - PostgreSQL Setup
+- [✓] Day 01 - PostgreSQL Setup
 - [ ] Day 02 - CREATE DATABASE
 - [ ] Day 03 - CREATE TABLE
 - [ ] Day 04 - INSERT
