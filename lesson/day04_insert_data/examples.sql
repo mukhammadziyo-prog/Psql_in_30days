@@ -2,27 +2,28 @@ INSERT INTO users (
     first_name,
     last_name,
     email,
-    birthday,
-    phone_number,
     age,
     city
 )
-VALUES
-(
+VALUES (
     'Muhammad',
     'Niyatov',
     'muhammad@example.com',
-    '2007-12-21',
-    '956784334',
     19,
     'Tashkent'
-),
-(
+);
+
+INSERT INTO users (
+    first_name,
+    last_name,
+    email,
+    age,
+    city
+)
+VALUES (
     'Ali',
     'Karimov',
     'ali@example.com',
-    '2003-05-15',
-    '998901112233',
     22,
     'Samarkand'
 );
