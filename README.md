@@ -4,14 +4,14 @@ A structured 30-day PostgreSQL learning journey.
 
 ## Progress
 
-* [ ] Day 01 - PostgreSQL Setup
-* [ ] Day 02 - CREATE DATABASE
-* [ ] Day 03 - CREATE TABLE
-* [ ] Day 04 - INSERT INTO
-* [ ] Day 05 - SELECT
-* [ ] Day 06 - WHERE
-* [ ] Day 07 - DISTINCT
-* [ ] Day 08 - ORDER BY
+* [✅] Day 01 - PostgreSQL Setup
+* [✅] Day 02 - CREATE DATABASE
+* [✅] Day 03 - CREATE TABLE
+* [✅] Day 04 - INSERT INTO
+* [✅] Day 05 - SELECT
+* [✅] Day 06 - WHERE
+* [✅] Day 07 - DISTINCT
+* [✅] Day 08 - ORDER BY
 
 ## DATA RETRIEVAL
 
