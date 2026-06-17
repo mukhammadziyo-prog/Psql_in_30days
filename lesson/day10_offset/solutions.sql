@@ -1,0 +1,19 @@
+SELECT *
+FROM users
+OFFSET 5;
+
+SELECT *
+FROM users
+LIMIT 5
+OFFSET 5;
+
+SELECT *
+FROM users
+ORDER BY age
+LIMIT 3
+OFFSET 2;
+
+SELECT first_name, email
+FROM users
+LIMIT 2
+OFFSET 1;
