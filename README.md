@@ -16,9 +16,9 @@ A structured 30-day PostgreSQL learning journey.
 ## DATA RETRIEVAL
 
 * [✅] Day 09 - LIMIT
-* [ ] Day 10 - OFFSET
-* [ ] Day 11 - FETCH
-* [ ] Day 12 - AS (Aliases)
+* [✅] Day 10 - OFFSET
+* [✅] Day 11 - FETCH
+* [✅] Day 12 - AS (Aliases)
 * [ ] Day 13 - AND
 * [ ] Day 14 - OR
 * [ ] Day 15 - IN
