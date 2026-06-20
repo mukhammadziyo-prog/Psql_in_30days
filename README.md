@@ -19,9 +19,9 @@ A structured 30-day PostgreSQL learning journey.
 * [✅] Day 10 - OFFSET
 * [✅] Day 11 - FETCH
 * [✅] Day 12 - AS (Aliases)
-* [ ] Day 13 - AND
-* [ ] Day 14 - OR
-* [ ] Day 15 - IN
+* [✅] Day 13 - AND
+* [✅] Day 14 - OR
+* [✅] Day 15 - IN
 * [ ] Day 16 - BETWEEN
 * [ ] Day 17 - LIKE
 * [ ] Day 18 - IS NULL
