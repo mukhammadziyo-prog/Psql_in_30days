@@ -1,0 +1,15 @@
+SELECT *
+FROM users
+WHERE age BETWEEN 18 AND 25;
+
+SELECT *
+FROM users
+WHERE age BETWEEN 20 AND 30;
+
+SELECT first_name, email
+FROM users
+WHERE age BETWEEN 18 AND 22;
+
+SELECT *
+FROM users
+WHERE birthday BETWEEN '2000-01-01' AND '2010-12-31';
