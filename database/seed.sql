@@ -12,4 +12,9 @@ VALUES
 ('Vali','Tursunov','vali@example.com','2002-03-10','998901112234',23,'Samarkand'),
 ('Aziz','Rahimov','aziz@example.com','2005-08-22','998901112235',20,'Bukhara'),
 ('Akmal','Karimov','akmal@example.com','2001-11-02','998901112236',24,'Tashkent'),
-('Jasur','Aliyev','jasur@example.com','2004-01-17','998901112237',21,'Khiva');
+('Jasur','Aliyev','jasur@example.com','2004-01-17','998901112237',21,'Khiva'),
+('Dilmuroq','Alisherov','ALi@example.com','2009-01-30','998901112238',15,'Termiz'),
+('Abduvali','Rahimov','rahim@example.com','2006-03-12','998909012234',20,'Samarkand'),
+('Jasur','Abruvaliyev','Abduvali@example.com','2000-01-22','998901112232',25,'Bukhara'),
+('Suleyman','Inomov','Sulein@example.com','1994-11-02','998901110091',29,'Tashkent'),
+('Bekzod','Komilov','Komiljon@example.com','1998-04-27','998901111132',25,'Khiva');
