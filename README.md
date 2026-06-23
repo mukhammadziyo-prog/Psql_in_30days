@@ -23,7 +23,7 @@ A structured 30-day PostgreSQL learning journey.
 * [✅] Day 14 - OR
 * [✅] Day 15 - IN
 * [✅] Day 16 - BETWEEN
-* [ ] Day 17 - LIKE
+* [✅] Day 17 - LIKE
 * [ ] Day 18 - IS NULL
 
 ## AGGREGATION
