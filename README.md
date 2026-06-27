@@ -31,7 +31,7 @@ A structured 30-day PostgreSQL learning journey.
 * [✅] Day 19 - COUNT
 * [✅] Day 20 - MIN and MAX
 * [✅] Day 21 - SUM and AVG
-* [ ] Day 22 - GROUP BY
+* [✅] Day 22 - GROUP BY
 * [ ] Day 23 - HAVING
 
 ## MULTI-TABLE QUERIES
