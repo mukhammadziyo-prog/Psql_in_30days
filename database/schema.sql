@@ -13,5 +13,10 @@ CREATE TABLE users (
 
 -- Products table
 
+CREATE TABLE products (
+    id SERIAL PRIMARY KEY,
+    products_name VARCHAR(100),
+    category VARCHAR(50),
+    price DECIMAL(10,2),
 
  -- Orders table
