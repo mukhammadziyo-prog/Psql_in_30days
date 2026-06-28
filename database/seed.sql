@@ -33,3 +33,27 @@ VALUES
 ('Asadbek','Ruziev','asadbek@example.com','2001-12-28','998901112252',24,'Fergana'),
 ('Umid','Nematov','umid@example.com','1996-09-09','998901112253',29,'Nukus'),
 ('Shoxrux','Turgunov','shoxrux@example.com','2003-01-20','998901112254',22,'Namangan');
+
+
+
+
+
+
+
+INSERT INTO products (
+    product_name,
+    category,
+    price,
+    stock
+)
+VALUES
+('Laptop', 'Electronics', 1200.00, 15),
+('Keyboard', 'Electronics', 45.50, 100),
+('Mouse', 'Electronics', 25.00, 150),
+('Monitor', 'Electronics', 300.00, 40),
+('Desk', 'Furniture', 180.00, 20),
+('Chair', 'Furniture', 95.00, 35),
+('Notebook', 'Stationery', 4.50, 500),
+('Pen', 'Stationery', 1.20, 1000),
+('Backpack', 'Accessories', 55.00, 60),
+('Headphones', 'Electronics', 150.00, 45);
