@@ -18,5 +18,6 @@ CREATE TABLE products (
     products_name VARCHAR(100),
     category VARCHAR(50),
     price DECIMAL(10,2),
-
+    stock INT
+);
  -- Orders table
