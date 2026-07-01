@@ -37,7 +37,7 @@ A structured 30-day PostgreSQL learning journey.
 ## MULTI-TABLE QUERIES
 
 * [✅] Day 24 - INNER JOIN
-* [ ] Day 25 - LEFT JOIN
+* [✅] Day 25 - LEFT JOIN
 * [ ] Day 26 - RIGHT JOIN
 * [ ] Day 27 - FULL JOIN
 
