@@ -57,3 +57,18 @@ VALUES
 ('Pen', 'Stationery', 1.20, 1000),
 ('Backpack', 'Accessories', 55.00, 60),
 ('Headphones', 'Electronics', 150.00, 45);
+
+
+
+
+INSERT INTO orders(
+    user_id,
+    order_date,
+    total_amount
+)
+VALUES
+(1,'2026-01-10',150.00),
+(2,'2026-01-12',230.00),
+(1,'2026-01-20',500.00),
+(5,'2026-02-05',75.50),
+(3,'2026-02-15',900.00);
