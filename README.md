@@ -44,5 +44,5 @@ A structured 30-day PostgreSQL learning journey.
 ## DATABASE DESIGN
 
 * [✅] Day 28 - PRIMARY KEY
-* [ ] Day 29 - FOREIGN KEY
+* [✅] Day 29 - FOREIGN KEY
 * [ ] Day 30 - Final Database Project
