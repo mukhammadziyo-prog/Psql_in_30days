@@ -1,29 +1,89 @@
 # Database Design
 
-This project simulates a mini e-commerce system.
+## Overview
 
-Tables:
+This mini e-commerce database is designed to simulate a simplified online shopping system.
 
-- users
-- products
-- orders
+---
 
-Relationships:
+## Database Structure
 
-users ----< orders
+users
+↓
+orders
 
-Concepts Used:
+products
+
+---
+
+## Tables
+
+### users
+
+Stores customer information.
+
+Columns:
+
+- id
+- first_name
+- last_name
+- email
+- birthday
+- phone_number
+- age
+- city
+
+---
+
+### products
+
+Stores product information.
+
+Columns:
+
+- id
+- product_name
+- category
+- price
+- stock
+
+---
+
+### orders
+
+Stores customer orders.
+
+Columns:
+
+- id
+- user_id
+- order_date
+- total_amount
+
+---
+
+## Relationships
+
+orders.user_id
+
+references
+
+users.id
+
+---
+
+## Constraints Used
 
 - PRIMARY KEY
 - FOREIGN KEY
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- FULL JOIN
-- GROUP BY
-- HAVING
-- COUNT
-- SUM
-- AVG
-- MIN
-- MAX
+- NOT NULL
+
+---
+
+## Data Types Used
+
+- SERIAL
+- VARCHAR
+- INT
+- DATE
+- DECIMAL
