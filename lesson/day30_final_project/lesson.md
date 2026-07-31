@@ -1,8 +1,8 @@
-# Day 30 - PostgreSQL Mini E-Commerce Database Project
+# Day 30 - PostgreSQL Mini E-Commerce Final Project
 
 ## Objective
 
-The objective of this project is to demonstrate practical PostgreSQL skills by designing and documenting a mini e-commerce database system.
+The objective of this project is to demonstrate practical PostgreSQL skills by building a mini e-commerce database system.
 
 ---
 
@@ -10,13 +10,13 @@ The objective of this project is to demonstrate practical PostgreSQL skills by d
 
 This project showcases:
 
-- Database design principles.
-- Relational database concepts.
-- SQL fundamentals.
-- Aggregate functions.
-- JOIN operations.
-- PRIMARY KEY and FOREIGN KEY relationships.
-- Analytical SQL queries.
+- Database design principles
+- Relational database concepts
+- SQL fundamentals
+- Aggregate functions
+- JOIN operations
+- PRIMARY KEY and FOREIGN KEY relationships
+- Analytical SQL queries
 
 ---
 
@@ -39,7 +39,7 @@ The project consists of three main tables:
 
 ---
 
-## Concepts Demonstrated
+## SQL Concepts Demonstrated
 
 - CREATE TABLE
 - INSERT INTO
@@ -79,6 +79,6 @@ After completing this project, I am able to:
 
 - Design relational databases.
 - Write analytical SQL queries.
-- Create relationships between tables.
+- Create relationships between database tables.
 - Build small-scale PostgreSQL projects.
 - Structure a professional SQL repository.
