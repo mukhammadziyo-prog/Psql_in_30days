@@ -86,7 +86,7 @@ Psql_in_30days/
 
 ### Days 01 - 08
 
-- [x] PostgreSQL Setup
+- [☑️] PostgreSQL Setup
 - [x] CREATE DATABASE
 - [x] CREATE TABLE
 - [x] INSERT INTO
