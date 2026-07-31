@@ -1,48 +1,197 @@
 # PostgreSQL in 30 Days
 
-A structured 30-day PostgreSQL learning journey.
+A structured 30-day PostgreSQL learning journey designed to build a strong foundation in PostgreSQL, relational databases, and SQL query writing.
 
-## Progress
+This repository documents my progress from SQL fundamentals to building a mini E-Commerce database project using PostgreSQL.
 
-* [✅] Day 01 - PostgreSQL Setup
-* [✅] Day 02 - CREATE DATABASE
-* [✅] Day 03 - CREATE TABLE
-* [✅] Day 04 - INSERT INTO
-* [✅] Day 05 - SELECT
-* [✅] Day 06 - WHERE
-* [✅] Day 07 - DISTINCT
-* [✅] Day 08 - ORDER BY
+---
 
-## DATA RETRIEVAL
+## Repository Structure
 
-* [✅] Day 09 - LIMIT
-* [✅] Day 10 - OFFSET
-* [✅] Day 11 - FETCH
-* [✅] Day 12 - AS (Aliases)
-* [✅] Day 13 - AND
-* [✅] Day 14 - OR
-* [✅] Day 15 - IN
-* [✅] Day 16 - BETWEEN
-* [✅] Day 17 - LIKE
-* [✅] Day 18 - IS NULL
+```
+Psql_in_30days/
 
-## AGGREGATION
+├── README.md
+│
+├── database/
+│   ├── schema.sql
+│   └── seed.sql
+│
+└── lesson/
+    ├── day01_postgresql_setup/
+    ├── day02_create_database/
+    ├── ...
+    └── day30_final_project/
+```
 
-* [✅] Day 19 - COUNT
-* [✅] Day 20 - MIN and MAX
-* [✅] Day 21 - SUM and AVG
-* [✅] Day 22 - GROUP BY
-* [✅] Day 23 - HAVING
+---
 
-## MULTI-TABLE QUERIES
+## Topics Covered
 
-* [✅] Day 24 - INNER JOIN
-* [✅] Day 25 - LEFT JOIN
-* [✅] Day 26 - RIGHT JOIN
-* [✅] Day 27 - FULL JOIN
+### SQL Fundamentals
 
-## DATABASE DESIGN
+- PostgreSQL Setup
+- CREATE DATABASE
+- CREATE TABLE
+- INSERT INTO
+- SELECT
+- WHERE
+- DISTINCT
+- ORDER BY
 
-* [✅] Day 28 - PRIMARY KEY
-* [✅] Day 29 - FOREIGN KEY
-* [✅] Day 30 - Final Database Project
+---
+
+### Data Retrieval
+
+- LIMIT
+- OFFSET
+- FETCH
+- AS (Aliases)
+- AND
+- OR
+- IN
+- BETWEEN
+- LIKE
+- IS NULL
+
+---
+
+### Aggregation
+
+- COUNT
+- MIN and MAX
+- SUM and AVG
+- GROUP BY
+- HAVING
+
+---
+
+### Multi-Table Queries
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+
+---
+
+### Database Design
+
+- PRIMARY KEY
+- FOREIGN KEY
+
+---
+
+## Course Roadmap
+
+### Days 01 - 08
+
+- [x] PostgreSQL Setup
+- [x] CREATE DATABASE
+- [x] CREATE TABLE
+- [x] INSERT INTO
+- [x] SELECT
+- [x] WHERE
+- [x] DISTINCT
+- [x] ORDER BY
+
+### Days 09 - 18
+
+- [x] LIMIT
+- [x] OFFSET
+- [x] FETCH
+- [x] AS (Aliases)
+- [x] AND
+- [x] OR
+- [x] IN
+- [x] BETWEEN
+- [x] LIKE
+- [x] IS NULL
+
+### Days 19 - 23
+
+- [x] COUNT
+- [x] MIN and MAX
+- [x] SUM and AVG
+- [x] GROUP BY
+- [x] HAVING
+
+### Days 24 - 27
+
+- [x] INNER JOIN
+- [x] LEFT JOIN
+- [x] RIGHT JOIN
+- [x] FULL JOIN
+
+### Days 28 - 30
+
+- [x] PRIMARY KEY
+- [x] FOREIGN KEY
+- [x] Final Database Project
+
+---
+
+## Final Project
+
+The final project is a mini E-Commerce database system designed using PostgreSQL.
+
+The project includes:
+
+- Database design
+- Sample SQL queries
+- Analytical SQL queries
+- Technical documentation
+- Portfolio-ready project structure
+
+---
+
+## Technologies Used
+
+- PostgreSQL
+- SQL
+- Git
+- GitHub
+
+---
+
+## Skills Learned
+
+By completing this repository, I have practiced:
+
+- Database Design
+- Relational Databases
+- SQL Fundamentals
+- Data Retrieval Techniques
+- Aggregate Functions
+- JOIN Operations
+- Analytical Queries
+- Technical Documentation
+- Git and GitHub Workflow
+
+---
+
+## Future Improvements
+
+Potential future PostgreSQL topics:
+
+- Views
+- Indexes
+- Transactions
+- Stored Procedures
+- Functions
+- Triggers
+- Window Functions
+- Common Table Expressions (CTEs)
+
+---
+
+## Learning Outcomes
+
+After completing this project, I am able to:
+
+- Design relational databases.
+- Write practical SQL queries.
+- Perform analytical operations using SQL.
+- Build small-scale PostgreSQL projects.
+- Organize professional GitHub repositories.
+
