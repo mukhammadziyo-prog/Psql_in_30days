@@ -86,48 +86,48 @@ Psql_in_30days/
 
 ### Days 01 - 08
 
-- [☑️] PostgreSQL Setup
-- [x] CREATE DATABASE
-- [x] CREATE TABLE
-- [x] INSERT INTO
-- [x] SELECT
-- [x] WHERE
-- [x] DISTINCT
-- [x] ORDER BY
+- [✅] PostgreSQL Setup
+- [✅] CREATE DATABASE
+- [✅] CREATE TABLE
+- [✅] INSERT INTO
+- [✅] SELECT
+- [✅] WHERE
+- [✅] DISTINCT
+- [✅] ORDER BY
 
 ### Days 09 - 18
 
-- [x] LIMIT
-- [x] OFFSET
-- [x] FETCH
-- [x] AS (Aliases)
-- [x] AND
-- [x] OR
-- [x] IN
-- [x] BETWEEN
-- [x] LIKE
-- [x] IS NULL
+- [✅] LIMIT
+- [✅] OFFSET
+- [✅] FETCH
+- [✅] AS (Aliases)
+- [✅] AND
+- [✅] OR
+- [✅] IN
+- [✅] BETWEEN
+- [✅] LIKE
+- [✅] IS NULL
 
 ### Days 19 - 23
 
-- [x] COUNT
-- [x] MIN and MAX
-- [x] SUM and AVG
-- [x] GROUP BY
-- [x] HAVING
+- [✅] COUNT
+- [✅] MIN and MAX
+- [✅] SUM and AVG
+- [✅] GROUP BY
+- [✅] HAVING
 
 ### Days 24 - 27
 
-- [x] INNER JOIN
-- [x] LEFT JOIN
-- [x] RIGHT JOIN
-- [x] FULL JOIN
+- [✅] INNER JOIN
+- [✅] LEFT JOIN
+- [✅] RIGHT JOIN
+- [✅] FULL JOIN
 
 ### Days 28 - 30
 
-- [x] PRIMARY KEY
-- [x] FOREIGN KEY
-- [x] Final Database Project
+- [✅] PRIMARY KEY
+- [✅] FOREIGN KEY
+- [✅] Final Database Project
 
 ---
 
